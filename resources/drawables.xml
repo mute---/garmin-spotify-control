@@ -1,0 +1,20 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="icons/logo.png" />
+
+    <bitmap id="Liked" filename="icons/liked.svg">
+        <palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>535353</color>
+            <color>1DB954</color>
+            <color>191414</color>
+        </palette >
+    </bitmap>
+    <bitmap id="Like" filename="icons/like.svg">
+        <palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>535353</color>
+            <color>1DB954</color>
+            <color>191414</color>
+        </palette >
+    </bitmap>
+</drawables>

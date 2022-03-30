@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">SpotifyLibControl</string>
+
+    <string id="Login">Please login in companion app</string>
+
+    <string id="NoTrack">Nothing is playing</string>
+</strings>

@@ -1,0 +1,11 @@
+<layout id="MainLayout">
+
+    <text-area id="CurrentTrackLabel" x="5%" y="center" height="200" width="90%" text="@Strings.NoTrack" font="Graphics.FONT_MEDIUM" />
+
+    <button id="LikeButton" x="right" y="bottom" width="50" height="45" behavior="handleLikeClick" class="FindableButton">
+        <state id="stateDefault" bitmap="@Drawables.Like" />
+        <state id="stateHighlighted" bitmap="@Drawables.Liked" />
+        <state id="stateSelected" bitmap="@Drawables.Liked" />
+    </button>
+
+</layout>

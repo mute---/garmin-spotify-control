@@ -1,0 +1,5 @@
+<layout id="LoginLayout">
+
+    <text-area text="@Strings.Login" font="Graphics.FONT_MEDIUM" x="center" y="center" justification="Graphics.TEXT_JUSTIFY_CENTER" width="90%" height="50%" />
+
+</layout>
